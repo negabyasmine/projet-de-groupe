@@ -8,7 +8,16 @@
 	Animateur·rice·s : Non requis
 	Âges : 10 ans et +
 	Stade d’avancement : En développement
-
+<ul>
+  <li>Support : </li>  
+	<p>Cartes</p>
+  </ul>
+<ul>
+  <li><a href="salle_des_murmures.md">salle des murmures</li>      
+  </ul>
+<ul>
+  <li><a href="potions.md">salles des potions</li>      
+  </ul>
 ## Jeu 2 : Santé Mentale
 	Support : En ligne
 	Objectif : Comprendre ses ressentis et prévenir le mal-être psychologique.
@@ -53,4 +62,5 @@
 	Âges : Tous âges
 
 	Stade d’avancement : En développement
+
 
