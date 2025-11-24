@@ -1,4 +1,4 @@
-Jeu 1 : Santé et Sensibilisation
+##Jeu 1 : Santé et Sensibilisation
 	Support : Cartes
 	Objectif : Découvrir les associations et/ou organismes correspondant à chaque problème de santé.
 	Type : Jeu de règles
@@ -9,7 +9,7 @@ Jeu 1 : Santé et Sensibilisation
 	Âges : 10 ans et +
 	Stade d’avancement : En développement
 
-Jeu 2 : Santé Mentale
+##Jeu 2 : Santé Mentale
 	Support : En ligne
 	Objectif : Comprendre ses ressentis et prévenir le mal-être psychologique.
 	Type : Exercices
@@ -20,7 +20,7 @@ Jeu 2 : Santé Mentale
 	Âges : 6–18 ans
 	Stade d’avancement : En développement
 
-Jeu 3 : Anatomie et Santé
+##Jeu 3 : Anatomie et Santé
 	Support : En ligne
 	Objectif : Mieux comprendre son corps (anatomie, etc.).
 	Type : Assemblage
@@ -31,7 +31,7 @@ Jeu 3 : Anatomie et Santé
 	Âges : Tous âges
 	Stade d’avancement : En développement
 
-Jeu 4 : Les Petits Architectes avec Lego
+##Jeu 4 : Les Petits Architectes avec Lego
 	Support : Lego
 	Objectif : Travailler en groupe de façon coordonnée.
 	Type : Assemblage
@@ -42,7 +42,7 @@ Jeu 4 : Les Petits Architectes avec Lego
 	Âges : Tous âges
 	Stade d’avancement : En développement
 
-Jeu 5 : Manière de s’habiller
+##Jeu 5 : Manière de s’habiller
 	Support : En ligne
 	Objectif : Permettre de mieux se sentir dans ses vêtements.
 	Type : Assemblage
@@ -51,4 +51,5 @@ Jeu 5 : Manière de s’habiller
 	Public : Grand public
 	Animateur·rice·s : Non requis
 	Âges : Tous âges
+
 	Stade d’avancement : En développement
