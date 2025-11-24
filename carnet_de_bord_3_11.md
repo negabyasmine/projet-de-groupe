@@ -9,7 +9,7 @@
 	Âges : 10 ans et +
 	Stade d’avancement : En développement
   
-<h1>Mon Titre Centré</h1>
+
 ## Jeu 2 : Santé Mentale
 	Support : En ligne
 	Objectif : Comprendre ses ressentis et prévenir le mal-être psychologique.
@@ -54,6 +54,7 @@
 	Âges : Tous âges
 
 	Stade d’avancement : En développement
+
 
 
 
