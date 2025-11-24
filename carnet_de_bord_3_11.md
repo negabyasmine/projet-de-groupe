@@ -1,5 +1,5 @@
 ## Jeu 1 : Santé et Sensibilisation
-	<h1>Support <\h1>: Cartes 
+	Support : Cartes 
 	Objectif : Découvrir les associations et/ou organismes correspondant à chaque problème de santé.
 	Type : Jeu de règles
 	Durée : 0–20 min
@@ -54,6 +54,7 @@
 	Âges : Tous âges
 
 	Stade d’avancement : En développement
+
 
 
 
