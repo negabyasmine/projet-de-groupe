@@ -1,5 +1,5 @@
 ## Jeu 1 : Santé et Sensibilisation
-	<h1>Support </h1>: Cartes 
+	<h1>Support <\h1>: Cartes 
 	Objectif : Découvrir les associations et/ou organismes correspondant à chaque problème de santé.
 	Type : Jeu de règles
 	Durée : 0–20 min
@@ -9,6 +9,7 @@
 	Âges : 10 ans et +
 	Stade d’avancement : En développement
   
+<h1>Mon Titre Centré</h1>
 ## Jeu 2 : Santé Mentale
 	Support : En ligne
 	Objectif : Comprendre ses ressentis et prévenir le mal-être psychologique.
@@ -53,6 +54,7 @@
 	Âges : Tous âges
 
 	Stade d’avancement : En développement
+
 
 
 
