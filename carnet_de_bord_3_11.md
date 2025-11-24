@@ -12,12 +12,41 @@
   <li>Support : </li>  
 	<p>Cartes</p>
   </ul>
-<ul>
-  <li><a href="salle_des_murmures.md">salle des murmures</li>      
+  <ul>
+  <li>Objectif  : </li>  
+	<p>Découvrir les associations et/ou organismes correspondant à chaque problème de santé.</p>
   </ul>
-<ul>
-  <li><a href="potions.md">salles des potions</li>      
+  <ul>
+  <li>Type : </li>  
+	<p>Jeu de règles</p>
   </ul>
+  <ul>
+  <li>Durée : </li>  
+	<p> 0–20 min</p>
+  </ul>
+  <ul>
+  <li>Accessibilité : </li>  
+	<p>Gratuit et imprimable</p>
+  </ul>
+  <ul>
+  <li>Public : </li>  
+	<p>Grand public</p>
+  </ul>
+   <ul>
+  <li>Animateur·rice·s  : </li>  
+	<p>Non requis</p>
+  </ul>
+    <ul>
+  <li>Âges : </li>  
+	<p>10 ans et +</p>
+  </ul>
+    <ul>
+  <li>Stade d’avancement : </li>  
+	<p>En développement</p>
+  </ul>
+
+
+  
 ## Jeu 2 : Santé Mentale
 	Support : En ligne
 	Objectif : Comprendre ses ressentis et prévenir le mal-être psychologique.
@@ -62,5 +91,6 @@
 	Âges : Tous âges
 
 	Stade d’avancement : En développement
+
 
 
