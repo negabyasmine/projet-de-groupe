@@ -1,0 +1,10 @@
+FAITS: le 15/12/2025
+-Diagramme de gantt
+-recherches sur les maladies et les assos : creation des familles de cartes
+-partage des prochaines taches a faire entre les membres du groupe:
+ *le disign des cartes 
+ *la page github : contenu du site
+ *les regles du jeu
+ *la documentation 
+ 
+ 
