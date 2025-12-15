@@ -50,9 +50,9 @@ Chaque famille est composée de 7 cartes :
 
 -Diagnostic
 
-## Le but pour les joueurs est de réunir les 7 cartes d’une même famille pour mieux comprendre la maladie.
+ Le but pour les joueurs est de réunir les 7 cartes d’une même famille pour mieux comprendre la maladie.
 
- Structure des cartes
+## Structure des cartes
 
 ## Carte 1 : Organe atteint
 
@@ -196,6 +196,7 @@ Améliorer selon les retours
 
 
 Préparer une version imprimable propre
+
 
 
 
