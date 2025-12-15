@@ -86,7 +86,7 @@ Types de traitements
 
 Prise en charge médicale
 
-(option) Informations simplifiées sur les modalités des soins
+ Informations simplifiées sur les modalités des soins
 
 
 
@@ -196,6 +196,7 @@ Améliorer selon les retours
 
 
 Préparer une version imprimable propre
+
 
 
 
