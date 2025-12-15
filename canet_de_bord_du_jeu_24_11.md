@@ -1,4 +1,4 @@
-Jeu 1 : Santé et Sensibilisation
+## Jeu 1 : Santé et Sensibilisation
 
 Nom du jeu : SantéGo
 
@@ -24,7 +24,7 @@ Stade d’avancement : En développement
 
 
 
- Concept du jeu:
+## Concept du jeu:
 
 
 
@@ -58,7 +58,7 @@ Le but pour les joueurs est de réunir les 7 cartes d’une même famille pour m
 
  Structure des cartes
 
- \*\*Carte 1 : Organe atteint
+ ## Carte 1 : Organe atteint
 
 Image anatomique simplifiée
 
@@ -68,7 +68,7 @@ Fonction principale de l’organe
 
 
 
-\*\* Carte 2 : Symptômes
+##  Carte 2 : Symptômes
 
 Liste claire des symptômes fréquents
 
@@ -76,7 +76,7 @@ Signes d’alerte à ne pas ignorer
 
 
 
-\*\*Carte 3 : Prévention
+## Carte 3 : Prévention
 
 Habitudes à adopter
 
@@ -84,7 +84,7 @@ Facteurs de risque à éviter
 
 
 
- \*\*Carte 4 : Soins médicaux
+ ## Carte 4 : Soins médicaux
 
 Types de traitements
 
@@ -94,7 +94,7 @@ Prise en charge médicale
 
 
 
- \*\*Carte 5 : Accompagnement (associations)
+ ## Carte 5 : Accompagnement (associations)
 
 Principales associations d’aide
 
@@ -104,7 +104,7 @@ QR Code renvoyant vers site officiel (ex : Ameli, HAS, OMS)
 
 
 
- \*\*Carte 6 : Causes
+ ## Carte 6 : Causes
 
 Causes possibles
 
@@ -114,25 +114,17 @@ Distinction cause/facteur de risque
 
 
 
- \*\*Carte 7 : Diagnostic + QR Code
+## Carte 7 : Diagnostic + QR Code
 
 
 
-Examens nécessaires
+ Examens nécessaires
 
 
-
-Professionnels concernés
-
-
-
-
-
-
+ Professionnels concernés
 
  Déroulement du développement
-
-&nbsp;Définition du concept
+## Définition du concept
 
 
 
@@ -146,7 +138,7 @@ Professionnels concernés
 
 
 
- Construction du contenu
+##  Construction du contenu
 
 
 
@@ -160,7 +152,7 @@ Création des catégories de cartes
 
 
 
-  Prototype
+## Prototype
 
  Création des premières cartes (design + texte)
 
@@ -171,10 +163,7 @@ Mise en page des cartes pour impression
  Première version imprimée test
 
 
-
-&nbsp;Test du jeu
-
-
+## Test du jeu
 
  Test auprès d’un petit groupe
 
@@ -184,11 +173,7 @@ Mise en page des cartes pour impression
 
  Ajustements du design
 
-
-
-&nbsp;Finalisation
-
-
+## Finalisation
 
  Finalisation des sept familles
 
@@ -202,25 +187,18 @@ Mise en page des cartes pour impression
 
 
 
-Prochaines étapes
-
-
+## Prochaines étapes
 
 Compléter les données médicales de chaque famille
 
-
-
 Créer les premières cartes en format A6
 
-
-
 Tester le prototype avec 2–3 personnes
-
-
 
 Améliorer selon les retours
 
 
 
 Préparer une version imprimable propre
+
 
