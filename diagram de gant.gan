@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Santé go" company="" webLink="http://" view-date="2025-12-13" view-index="0" gantt-divider-location="351" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
+<?xml version="1.0" encoding="UTF-8"?><project name="Santé go" company="" webLink="http://" view-date="2025-12-11" view-index="0" gantt-divider-location="507" resource-divider-location="300" version="3.3.3316" locale="fr_FR">
     <description/>
-    <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Nom" width="200" order="0"/>
-        <field id="tpd4" name="Date de début" width="75" order="1"/>
-        <field id="tpd5" name="Date de fin" width="75" order="2"/>
+    <view zooming-state="default:3" id="gantt-chart">
+        <field id="tpd3" name="Nom" width="289" order="0"/>
+        <field id="tpd4" name="Date de début" width="108" order="1"/>
+        <field id="tpd5" name="Date de fin" width="109" order="2"/>
         <field id="tpd15" name="Notes" width="20" order="3"/>
         <option id="filter.completedTasks" value="false"/>
         <option id="filter.dueTodayTasks" value="false"/>
@@ -63,6 +63,8 @@
         <task id="5" uid="dfaca00322bb4baaab7a69ff70e31972" name="Fabrication" meeting="false" start="2025-12-23" duration="1" complete="0" expand="true"/>
         <task id="8" uid="0a676821657243aaa31e992b44a1c3fc" name="documentation" meeting="false" start="2025-12-15" duration="10" complete="0" expand="true"/>
         <task id="9" uid="a52fc23a474a4ac58a9689e3849f3c97" name="site internet" meeting="false" start="2025-12-15" duration="10" complete="0" expand="true"/>
+        <task id="11" uid="4c9982d7bcbd4fe1a366e10a626225a0" name="fin / preparer presentation" meeting="false" start="2026-01-19" duration="1" complete="0" expand="true"/>
+        <task id="10" uid="c2fd49cb257f4bc6b59ae6bc74f4fffb" name="présentation" meeting="true" start="2026-01-26" duration="0" complete="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
