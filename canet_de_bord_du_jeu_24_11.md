@@ -50,15 +50,11 @@ Chaque famille est composée de 7 cartes :
 
 -Diagnostic
 
-
-
-
-
-Le but pour les joueurs est de réunir les 7 cartes d’une même famille pour mieux comprendre la maladie.
+## Le but pour les joueurs est de réunir les 7 cartes d’une même famille pour mieux comprendre la maladie.
 
  Structure des cartes
 
- ## Carte 1 : Organe atteint
+## Carte 1 : Organe atteint
 
 Image anatomique simplifiée
 
@@ -84,7 +80,7 @@ Facteurs de risque à éviter
 
 
 
- ## Carte 4 : Soins médicaux
+## Carte 4 : Soins médicaux
 
 Types de traitements
 
@@ -94,7 +90,7 @@ Prise en charge médicale
 
 
 
- ## Carte 5 : Accompagnement (associations)
+## Carte 5 : Accompagnement (associations)
 
 Principales associations d’aide
 
@@ -104,7 +100,7 @@ QR Code renvoyant vers site officiel (ex : Ameli, HAS, OMS)
 
 
 
- ## Carte 6 : Causes
+## Carte 6 : Causes
 
 Causes possibles
 
@@ -119,11 +115,11 @@ Distinction cause/facteur de risque
 
 
  Examens nécessaires
-
-
  Professionnels concernés
 
  Déroulement du développement
+ 
+ 
 ## Définition du concept
 
 
@@ -200,5 +196,6 @@ Améliorer selon les retours
 
 
 Préparer une version imprimable propre
+
 
 
