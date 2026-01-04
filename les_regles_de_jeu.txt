@@ -74,7 +74,7 @@ Constitution d’une famille
 
 Lorsqu’un joueur réunit les 7 cartes d’une même maladie, il pose la famille complète devant lui.
 
-👉 Option sensibilisation :
+ Option sensibilisation :
 Le joueur lit à voix haute le nom de l’association et explique brièvement son rôle.
 
 Fin de la partie
@@ -86,4 +86,5 @@ ou
 
 la pioche est vide et aucun joueur ne peut compléter de famille
 
-🏆 Le joueur ayant le plus de familles complètes remporte la partie
+
+ Le joueur ayant le plus de familles complètes remporte la partie
