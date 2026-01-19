@@ -1,0 +1,88 @@
+
+---
+
+# 1. ❤️ Cardiomyopathie hypertrophique
+
+* **Organe atteint** : Cœur
+* **Causes** : Mutation génétique héréditaire
+* **Symptômes** : essoufflement, palpitations, douleurs thoraciques, malaises
+* **Diagnostic** : échocardiographie, IRM cardiaque, tests génétiques
+* **Prévention** : dépistage familial, suivi régulier
+* **Soins médicaux** : médicaments, défibrillateur, parfois chirurgie
+* **Association (France)** : **CardioMyoPathies France**
+
+---
+
+# 2. 🫁 Sarcoïdose pulmonaire
+
+* **Organe atteint** : Poumons (peut toucher peau, yeux, cœur)
+* **Causes** : Réaction inflammatoire anormale (cause exacte inconnue)
+* **Symptômes** : toux persistante, fatigue, essoufflement, douleurs thoraciques
+* **Diagnostic** : radiographie, scanner, biopsie
+* **Prévention** : aucune connue
+* **Soins médicaux** : corticoïdes, suivi pneumologique
+* **Association (France)** : **Sarcoïdose France**
+
+---
+
+# 3. 🧪 Maladie de Wilson
+
+* **Organe atteint** : Foie, cerveau
+* **Causes** : Mutation génétique provoquant une accumulation de cuivre
+* **Symptômes** : jaunisse, tremblements, troubles psychiatriques
+* **Diagnostic** : tests sanguins, urine, examen des yeux (anneaux de Kayser-Fleischer)
+* **Prévention** : dépistage génétique familial
+* **Soins médicaux** : médicaments éliminant le cuivre, régime alimentaire
+* **Association (France)** : **AMMW – Maladie de Wilson**
+
+---
+
+# 4. 🩺 Polykystose rénale
+
+* **Organe atteint** : Reins
+* **Causes** : Maladie génétique héréditaire
+* **Symptômes** : douleurs lombaires, hypertension, infections urinaires
+* **Diagnostic** : échographie, scanner, tests génétiques
+* **Prévention** : suivi médical précoce
+* **Soins médicaux** : médicaments, dialyse, greffe rénale
+* **Association (France)** : **AFPR – Polykystose Rénale**
+
+---
+
+# 5. 🍽️ Maladie de Crohn
+
+* **Organe atteint** : Intestins
+* **Causes** : Dysfonctionnement du système immunitaire + facteurs génétiques
+* **Symptômes** : diarrhées chroniques, douleurs abdominales, fatigue
+* **Diagnostic** : coloscopie, IRM digestive, analyses biologiques
+* **Prévention** : arrêt du tabac, suivi médical
+* **Soins médicaux** : anti-inflammatoires, biothérapies, parfois chirurgie
+* **Association (France)** : **AFA – Association François Aupetit**
+
+
+---
+
+# 6. 🧠 Maladie d’Addison
+
+* **Organe atteint** : Glandes surrénales
+* **Causes** : Maladie auto-immune (destruction des surrénales)
+* **Symptômes** : fatigue intense, hypotension, amaigrissement
+* **Diagnostic** : tests hormonaux, prise de sang
+* **Prévention** : aucune connue
+* **Soins médicaux** : traitement hormonal à vie
+* **Association (France)** : **Maladie d’Addison France**
+
+---
+
+# 7. 🧠 Sclérose en plaques (SEP)
+
+* **Organe atteint** : Système nerveux central
+* **Causes** : Maladie auto-immune (facteurs génétiques et environnementaux)
+* **Symptômes** : troubles moteurs, visuels, fatigue chronique
+* **Diagnostic** : IRM, ponction lombaire
+* **Prévention** : pas de prévention formelle
+* **Soins médicaux** : traitements de fond, rééducation
+* **Association (France)** : **FFSEP**
+
+
+
