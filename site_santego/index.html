@@ -1,0 +1,358 @@
+<!-- =========================
+index.html
+========================= -->
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>SanteGo - Jeu de cartes educatif sante</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- =========================
+NAVBAR
+========================= -->
+<nav class="navbar" id="navbar">
+  <div class="logo">SanteGo</div>
+  <button class="burger" id="burger" aria-label="Ouvrir le menu">Menu</button>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="#home" class="nav-link">Accueil</a></li>
+    <li><a href="#how" class="nav-link">Comment jouer</a></li>
+    <li><a href="#cards" class="nav-link">Cartes & Themes</a></li>
+    <li><a href="#play" class="nav-link">Acheter</a></li>
+    <li><a href="#about" class="nav-link">A propos</a></li>
+    <li><a href="#contact" class="nav-link">Contact</a></li>
+  </ul>
+</nav>
+
+<main>
+<!-- =========================
+ACCUEIL / HERO
+========================= -->
+<section id="home" class="section hero reveal">
+  <div class="hero-text reveal slide-in">
+    <p class="eyebrow">JEU DE CARTES EDUCATIF SANTE</p>
+    <h1>SanteGo</h1>
+    <span class="title-underline" aria-hidden="true"></span>
+    <p class="lead">
+      <span class="highlight">
+Un jeu éducatif qui transforme l’apprentissage de la santé en une expérience interactive. <br> 
+Il permet d’acquérir des connaissances médicales, d’échanger et de mieux comprendre les maladies de manière progressive, à travers des cartes pédagogiques structurées.
+</span> 
+    </p>
+
+    <div class="hero-doodles" aria-hidden="true">
+      <span class="doodle doodle-arrow-text"></span>
+      <span class="doodle doodle-scribble-text"></span>
+      <span class="doodle doodle-square-text"></span>
+    </div>
+
+    <div class="scroll-down">
+      <span class="scroll-line" aria-hidden="true"></span>
+      <span class="scroll-label">Scroll down</span>
+    </div>
+  </div>
+
+  <!-- Bloc image style photo-cadre -->
+  <div class="media-frame hero-frame reveal fade-in">
+    <img src="/Users/samah/Desktop/teste/assets/WhatsApp Image 2026-01-19 at 14.36.27.jpeg" class="media-photo hero-photo" alt="Famille jouant a SanteGo">
+    <span class="doodle doodle-arrow" aria-hidden="true"></span>
+    <span class="doodle doodle-scribble" aria-hidden="true"></span>
+    <span class="doodle doodle-square" aria-hidden="true"></span>
+  </div>
+</section>
+
+<!-- =========================
+COMMENT JOUER
+========================= -->
+<section id="how" class="section reveal">
+  <div class="section-head reveal fade-up">
+    <h2>Comment jouer ?</h2>
+    <p>SanteGo reprend le principe du jeu des 7 familles : chaque famille represente une maladie et contient 7 cartes complementaires.</p>
+  </div>
+
+  <div class="steps">
+    <div class="step-card reveal fade-up">
+      <div class="step-number">1</div>
+      <h3>Distribuer</h3>
+      <p>Chaque joueur recoit des cartes pour debuter la partie.</p>
+    </div>
+    <div class="step-card reveal fade-up">
+      <div class="step-number">2</div>
+      <h3>Demander</h3>
+      <p>Posez une question a un autre joueur pour completer votre famille.</p>
+    </div>
+    <div class="step-card reveal fade-up">
+      <div class="step-number">3</div>
+      <h3>Former une famille</h3>
+      <p>Rassemblez les 7 cartes d'une meme maladie pour gagner.</p>
+    </div>
+    <div class="step-card reveal fade-up">
+      <div class="step-number">4</div>
+      <h3>Apprendre</h3>
+      <p>Chaque carte apporte une info medicale simple et pedagogique.</p>
+    </div>
+  </div>
+
+
+
+</section>
+
+<!-- =========================
+REGLES DU JEU
+========================= -->
+<section id="rules" class="section reveal">
+  <div class="section-head reveal fade-up">
+    <h2>Regles du jeu</h2>
+    <p>Une partie rapide, cooperative et pedagogique pour comprendre les maladies et les ressources d'accompagnement.</p>
+  </div>
+
+  <div class="rules-grid">
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">🧠</div>
+      <h3>Objectif du jeu</h3>
+      <p>Reconstituer des familles completes de 7 cartes pour mieux comprendre une maladie et identifier les associations utiles. Le joueur avec le plus de familles gagne.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">👨‍👩‍👧‍👦</div>
+      <h3>Nombre de joueurs</h3>
+      <p>De 2 a 6 joueurs.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">⏱️</div>
+      <h3>Duree d'une partie</h3>
+      <p>Entre 10 et 20 minutes.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">🃏</div>
+      <h3>Contenu du jeu</h3>
+      <p>Familles de maladies composees de 7 cartes : organe atteint, symptomes, prevention, soins medicaux, associations (avec QR code), causes, diagnostic.</p>
+    </article>
+  </div>
+
+  <div class="rules-grid">
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">⚙️</div>
+      <h3>Mise en place</h3>
+      <p>Melanger les cartes, distribuer 7 cartes par joueur (2-3 joueurs) ou 6 cartes (4-6 joueurs). Le reste forme la pioche. Chacun garde ses cartes cachees.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">🔁</div>
+      <h3>Deroulement d'un tour</h3>
+      <p>Demander une carte precise en citant la maladie et le type de carte. Exemple : "Dans la famille Maladie de Crohn, je demande la carte Symptomes." Si le joueur l'a, il la donne et le tour continue. Sinon, on pioche et on passe au joueur suivant.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">🧩</div>
+      <h3>Constitution d'une famille</h3>
+      <p>Quand une famille est complete, elle est posee devant soi. Option sensibilisation : lire l'association a voix haute et expliquer son role.</p>
+    </article>
+    <article class="step-card reveal fade-up">
+      <div class="rule-icon">🏁</div>
+      <h3>Fin de la partie</h3>
+      <p>La partie se termine quand toutes les familles sont constituees ou quand la pioche est vide et aucune famille ne peut etre completee. Le joueur avec le plus de familles gagne.</p>
+    </article>
+  </div>
+</section>
+
+<!-- =========================
+CARTES & THEMES
+========================= -->
+<section id="cards" class="section beige reveal">
+  <div class="section-head reveal fade-up">
+    <h2>Cartes & Themes medicaux</h2>
+    <p>Selectionnez un theme pour voir les cartes par maladie et type.</p>
+  </div>
+
+  <div class="themes-layout">
+    <!-- Colonne gauche : liste des themes -->
+    <div class="themes-list reveal fade-up" id="themesList">
+      <!-- Items generes en JS -->
+    </div>
+
+    <!-- Colonne droite : panneau de cartes -->
+    <div class="theme-panel reveal fade-up">
+      <div class="panel-head">
+        <div>
+          <p class="panel-label">Theme selectionne</p>
+          <h3 id="panelTitle">Neurologie</h3>
+        </div>
+        <a id="panelDownloadAll" href="assets/cartes/neurologie/SanteGo_neurologie.zip" download class="btn btn-ghost">Telecharger toutes les cartes du theme</a>
+      </div>
+
+      <div class="panel-scroll" id="panelCards">
+        <!-- Cartes generees en JS -->
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================
+VIDEO / CTA
+========================= -->
+<section id="play" class="section beige reveal">
+  <div class="play-grid">
+    <div class="play-text reveal fade-up">
+      <h2>Jouer, apprendre, partager</h2>
+      <p>Un jeu pour apprendre la sante en famille ou en classe. Ressources pedagogiques, information medicale accessible et approche ludique.</p>
+      <div class="cta-column">
+        <a class="btn pulse" href="/Users/samah/Desktop/teste/assets/cartes santé go.pdf" download>Telecharger la version PDF</a>
+       
+      </div>
+    
+    </div>
+
+    <!-- Bloc video style photo-cadre -->
+    <div class="media-frame video-frame reveal fade-in">
+      <video class="media-photo" autoplay loop muted playsinline>
+        <source src="/Users/samah/Desktop/teste/assets/video (1).mp4" type="video/mp4">
+      </video>
+      <span class="doodle doodle-arrow" aria-hidden="true"></span>
+      <span class="doodle doodle-scribble" aria-hidden="true"></span>
+      <span class="doodle doodle-square" aria-hidden="true"></span>
+    </div>
+  </div>
+</section>
+
+<!-- =========================
+A PROPOS
+========================= -->
+<section id="about" class="section reveal">
+  <div class="section-head reveal fade-up">
+    <h2>A propos du projet</h2>
+    <p>SanteGo est un jeu educatif pour sensibiliser aux maladies rares, chroniques et genetiques tout en developpant l'esprit critique.</p>
+  </div>
+  <div class="values">
+    <div class="value-card reveal fade-up">
+      <h3>Pedagogique</h3>
+      <p>Des cartes simples et progressives pour apprendre a son rythme.</p>
+    </div>
+    <div class="value-card reveal fade-up">
+      <h3>Medical et fiable</h3>
+      <p>Des QR codes vers des sources scientifiques et des associations reconnues.</p>
+    </div>
+    <div class="value-card reveal fade-up">
+      <h3>Bienveillant</h3>
+      <p>Un jeu qui favorise l'ecoute, le partage et la prevention.</p>
+    </div>
+  </div>
+
+  
+</section>
+
+<!-- =========================
+NOTRE GROUPE
+========================= -->
+<section id="groupe" class="section beige reveal">
+  <div class="groupe-grid">
+    <div class="groupe-quote-wrap reveal fade-up">
+      <div class="groupe-quote-card">
+        <span class="groupe-quote-mark mark-open" aria-hidden="true">“</span>
+        <h2>A propos de nous</h2>
+        <p class="groupe-quote-text">
+          Nous sommes un groupe d’étudiants en Master TechMed et en Master Automatique et Robotique.<br>
+          Dans le cadre du module de gestion de projet, nous avons conçu et développé un jeu à vocation ludique et pédagogique.
+          <br><br>
+          L’objectif de ce projet est de rendre accessibles des thématiques liées à la santé et à la technologie, tout en favorisant l’apprentissage par le jeu.
+          <br><br>
+          Ce travail nous a permis de mobiliser des compétences en gestion de projet, travail d’équipe et innovation, grâce à une collaboration interdisciplinaire entre nos deux formations.
+        </p>
+        <span class="groupe-quote-mark mark-close" aria-hidden="true">”</span>
+        <p class="groupe-quote-signature">— Notre groupe (Master TechMed &amp; Master Automatique et Robotique)</p>
+      </div>
+    </div>
+
+    <div class="groupe-media reveal slide-in">
+      <div class="groupe-accent" aria-hidden="true"></div>
+      <div class="groupe-frame">
+        <img src="assets/notre-groupe.png" alt="Photo du groupe SanteGo" class="groupe-photo">
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================
+TEMOIGNAGES
+========================= -->
+<section id="temoignages" class="section temoignages-section reveal">
+  <div class="temoignages-grid">
+    <div class="temoignages-text reveal fade-up">
+      <p class="eyebrow">Ils ont teste SanteGo</p>
+      <h2>Temoignages</h2>
+      <p>Retours d'experience de testeurs qui ont explore le jeu, ses cartes pedagogiques et son potentiel educatif.</p>
+      <p class="note">Des avis sinceres pour continuer a ameliorer l'apprentissage par le jeu.</p>
+    </div>
+
+    <div class="temoignages-card-wrap reveal fade-in">
+      <div class="temoignage-card" id="temoignageCard">
+        <div class="quote-icon" aria-hidden="true"></div>
+        <p class="temoignage-texte" id="temoignageTexte"></p>
+        <div class="temoignage-auteur">
+          <span class="temoignage-nom" id="temoignageNom"></span>
+          <span class="temoignage-role" id="temoignageRole">Testeur</span>
+        </div>
+      </div>
+      <div class="temoignage-dots" id="temoignageDots" role="tablist" aria-label="Temoignages"></div>
+    </div>
+  </div>
+</section>
+
+<!-- =========================
+CONTACT
+========================= -->
+<section id="contact" class="section beige reveal">
+  <!-- =========================
+  CONTACT (nouveau layout)
+  ========================= -->
+  <div class="contact-wrap">
+    <!-- Carte claire a gauche -->
+    <div class="contact-card reveal slide-in">
+      <div class="contact-accent-square" aria-hidden="true"></div>
+      <span class="contact-doodle-arrow" aria-hidden="true"></span>
+      <h2>Contact<span class="dot">.</span></h2>
+      <p>Vous avez une question sur SanteGo ? Nous lisons tous les messages et repondons rapidement.</p>
+      <p>Vous pouvez aussi demander une version enseignant ou des ressources pedagogiques.</p>
+      <div class="contact-bottom-line"></div>
+    </div>
+
+    <!-- Formulaire sombre a droite -->
+    <div class="contact-form-panel reveal fade-up">
+      <h3>Envoyer un message</h3>
+      <form class="contact-form contact-form-dark" id="contactForm">
+        <div class="form-row">
+          <label>
+            <span>Nom</span>
+            <input type="text" placeholder="Votre nom" required>
+          </label>
+          <label>
+            <span>Email</span>
+            <input type="email" placeholder="Votre email" required>
+          </label>
+        </div>
+        <label>
+          <span>Objet</span>
+          <input type="text" placeholder="Sujet du message" required>
+        </label>
+        <label>
+          <span>Message</span>
+          <textarea placeholder="Votre message" rows="6" required></textarea>
+        </label>
+        <button class="btn contact-submit" type="submit">Envoyer</button>
+        <p class="contact-success" id="contactSuccess" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </div>
+</section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
